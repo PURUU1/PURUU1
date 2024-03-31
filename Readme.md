@@ -16,6 +16,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Puruu1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Puruu1&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Puruu1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<img align="right" height="100" src="https://media1.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif?cid=6c09b952h05u8pyy7njcymxo6jd4vai954b3tzps5a9goj1m&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"  />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Puruu1&icon=0&color=0)](https://visitcount.itsvg.in)
